@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145353331434",
+    "project_id": "macroglobalproducts",
+    "storage_bucket": "macroglobalproducts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145353331434:android:55efffb4f6ce3bffa13d93",
+        "android_client_info": {
+          "package_name": "com.example.macro_global_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145353331434-34rkikcm4ndhudh9b8tbm8800q5ugkto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWwMtxOD0YXCF8y5tKgdtoZNEUQ9PxINQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145353331434-34rkikcm4ndhudh9b8tbm8800q5ugkto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
